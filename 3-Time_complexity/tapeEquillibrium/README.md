@@ -41,3 +41,11 @@ Write an efficient algorithm for the following assumptions:
 
 N is an integer within the range `[2..100,000]`;
 each element of array A is an integer within the range `[−1,000..1,000]`.
+
+### Solution
+
+The solution is found in the following files.
+
+|--------------|
+|[solution](solution.js)|
+|--------------|
