@@ -14,5 +14,5 @@ function solution(A) {
 }
 
 let arr = [2,4,3,1,6]
-let result = solution(arr)
+let result = solution([2,4,3,1,6])
 console.log(result)
